@@ -1,0 +1,12 @@
+.titulo {
+font-size: 65px; 
+text-decoration: underline;
+text-align: center;
+}
+body {
+    background-image: url(coronavirus-mundo.jpg);
+}
+*{
+    color: gold;
+    } 
+    
